@@ -22,7 +22,7 @@ Steps for trying out this sample:
 
 Video Demo
 -------
-<img src='https://i.imgur.com/kBmpOw7h.gif' width="350" />
+<img src='https://i.imgur.com/479WOuk.gif' width="350" />
 
 Encounter Issues
 -------
